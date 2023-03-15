@@ -1,6 +1,6 @@
 
 # I-3030 V4 3D Printer
-Introducing the I-3030 V4 - a new iteration of a 3D printer that is # designed to meet the needs and wants of both, hobbyists and # professionals alike.
+Introducing the I-3030 V4 - a new iteration of a 3D printer that is designed to meet the needs and wants of both, hobbyists and professionals alike.
 
 This 200x300x200mm machine is packed with features that set it apart from the competition and ensure an exceptional printing experience.
 Equipped with a 32-bit Duet controller that has WiFi connectivity and a WEB-based user interface, it is easy to use and allows for remote operation of the printer.
@@ -13,4 +13,4 @@ In addition, the I-3030 V4 has an extremely rigid Aluminum extrusion frame that 
 The machine is built with 12-volt components, which means that it is easily convertible to be used in vehicles or in the field away from the power grid.
 
 
-Please refer to the Mechanical assembly guide to get started!
+Please refer to the Mechanical assembly guide to get started.
